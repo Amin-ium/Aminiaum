@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aminie</h1>
+<h1 align="center">Hi 👋, I'm Amine</h1>
 <h3 align="center">A passionate fullstack developer from Morocco</h3>
 
 - 🌱 I’m currently learning **Html, css, Bootstrap, Javascript, Reactjs, TailwindCss, Laravel, Inertiajs,, Nodejs**
